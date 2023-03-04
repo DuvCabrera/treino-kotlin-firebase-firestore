@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340931285836",
+    "project_id": "aplicativo-de-teste-2abc4",
+    "storage_bucket": "aplicativo-de-teste-2abc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340931285836:android:29d6fcc84fe8d8056b75e9",
+        "android_client_info": {
+          "package_name": "com.duv.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340931285836-42o8jlc6n7mkbgtlbrkg0bo6fubgi7vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyKM946kk8MzOwQWIRS3ye6L-hSGUjvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340931285836-42o8jlc6n7mkbgtlbrkg0bo6fubgi7vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
